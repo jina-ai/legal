@@ -1,2 +1,2 @@
 # legal
-Jina legal statement
+Jina legal documents
