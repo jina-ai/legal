@@ -1,6 +1,6 @@
 # Legal Documents
 
-The legal documents listed in this repository apply to all services and products that Jina AI Limited offer.
+The legal documents listed in this repository apply to all services and products that Jina AI Limited offers.
 
 - [Privacy statement](privacy.md)
 - [Terms of Use](terms-of-use.md)
