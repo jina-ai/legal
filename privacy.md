@@ -2,7 +2,7 @@
 
 > Last updated: 23rd April, 2020
 
-This Privacy Statement explains how we (*"Jina"*, *"we"*, *"us"* in the sequel) collect, use, share and otherwise process information that identifies or could be identifiable to you (*"personal data"* in the sequel).
+This Privacy Statement explains how Jina (*"Jina"*, *"we"*, *"us"* in the sequel) collect, use, share and otherwise process information that identifies or could be identifiable to you (*"personal data"* in the sequel).
 
 ## Personal Data that We Collect - What, When & Why
 
